@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="captain_america">Captain America</string>
+    <string name="masukkan_judul_film">ingrese un título de la película</string>
+    <string name="cari">Buscar</string>
+    <string name="judul_film">Título de la película</string>
+    <string name="description">Descripción</string>
+    <string name="tgl_rilis">Fecha de lanzamiento</string>
+    <string name="menu_setting">Cambiar configuración de idioma</string>
+    <string name="masukkan_kata">Ingrese una palabra</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="cari1">Buscar</string>
+    <string name="cinema_ui_ux">Cinema Ui Ux</string>
+    <string name="home">Casa</string>
+    <string name="now_playing">Jugando ahora</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search">Buscar</string>
+    <string name="communicate">Comunicar</string>
+    <string name="share">Compartir</string>
+    <string name="send">Enviar</string>
+    <string name="judul">Título</string>
+    <string name="overview">Visión de conjunto</string>
+    <string name="favorite">Favorito</string>
+</resources>

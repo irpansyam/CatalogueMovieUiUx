@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+
+    <string name="navigation_drawer_open">Buka laci navigasi</string>
+    <string name="navigation_drawer_close">Tutup laci navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="captain_america">Captain America</string>
+    <string name="masukkan_judul_film">masukkan judul film</string>
+    <string name="cari">Cari</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="tgl_rilis">Tgl Rilis</string>
+    <string name="menu_setting">Ubah Pengaturan Bahasa</string>
+    <string name="masukkan_kata">Masukkan Kata</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="cari1">Cari</string>
+    <string name="cinema_ui_ux">Cinema Ui Ux</string>
+    <string name="home">Rumah</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="up_coming">Akan Tayang</string>
+    <string name="search">Cari</string>
+    <string name="communicate">Komunikasi</string>
+    <string name="share">Bagikan</string>
+    <string name="send">Kirim</string>
+    <string name="judul">Judul</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="favorite">Favorit</string>
+</resources>
